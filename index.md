@@ -19,7 +19,7 @@ I am a **Data & BI Analyst** with strong expertise in **Power BI (DAX, Power Que
 I have delivered **end-to-end BI solutions** across finance, risk, compliance, and operations within **agile, cross-functional teams**.
 
 ---
-
-➡️ View my [Skills](skills.md)  
-➡️ View my [Experience](experience.md)  
-➡️ View my [Projects](projects.md)
+Check out my:
+  [Skills](skills.md) 
+  [Experience](experience.md)  
+  [Projects](projects.md)
