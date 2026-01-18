@@ -2,3 +2,13 @@ title: Adeyemi M. A
 description: Data & Business Intelligence Analyst | Power BI | SQL | Python
 theme: jekyll-theme-cayman
 show_downloads: false
+
+navigation:
+  - title: Home
+    url: /
+  - title: Skills
+    url: /skills
+  - title: Experience
+    url: /experience
+  - title: Projects
+    url: /projects
