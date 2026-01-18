@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+[📄 Download My CV](Adeyemi_MA.pdf){: .btn }
 
 Adeyemi M. A  
 **Data & Business Intelligence Analyst**
