@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Adeyemi M. A  
+Adeyemi M. A  
 **Data & Business Intelligence Analyst**
 
 📍 United Kingdom | Open to relocation  
