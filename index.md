@@ -63,8 +63,6 @@ If you’re interested in:
 - Scalable data systems
 …you’ll feel right at home here.
 
-
-
 <div style="display:flex; gap:10px; align-items:center; margin-top:1em;">
   <a href="https://www.linkedin.com/in/adeyemifamodimu" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40">
