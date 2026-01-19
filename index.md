@@ -79,6 +79,8 @@ If you’re interested in:
 --- 
 
 Check out my:
-[Skills](skills.md) 
+[Skills](skills.md)
+
 [Experience](experience.md) 
+
 [Projects](projects.md)
