@@ -19,3 +19,7 @@ title: Skills
 - Process Improvement
 - Strong Business Acumen
 - Mentoring & Knowledge Sharing
+
+---
+
+[ Back to Home](/index.md)
