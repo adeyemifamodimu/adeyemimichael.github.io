@@ -50,8 +50,6 @@ Stakeholders needed a **single source of truth** to answer:
 
 ## Page 1 – Portfolio Overview (AUM & Client Churn)
 
-![AUM & Client Trends](../assets/images/client_portfolio_aum.png)
-
 ### Key Insights Delivered
 - **Current AUM:** £28M  
 - **CAGR (1990–2025):** 9.7%  
@@ -74,8 +72,6 @@ Enabled leadership to **quantify the turning point**, separating market effects 
 
 ## Page 2 – Fee Performance & Revenue Leakage
 
-![Fee Performance Analysis](../assets/images/client_portfolio_fees.png)
-
 ### Key Insights Delivered
 - **Effective Fee Rate:** 0.52% (above policy target)
 - **Actual Fee Growth YoY:** –68.9%
@@ -96,8 +92,6 @@ Demonstrated that **revenue decline was not pricing-related**, but driven by:
 ---
 
 ## Page 3 – Adviser & Team Performance
-
-![Team Performance Analysis](../assets/images/client_portfolio_team.png)
 
 ### Key Insights Delivered
 - **Fee Efficiency:** –98.6%
