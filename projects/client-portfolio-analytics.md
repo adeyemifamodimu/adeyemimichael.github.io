@@ -6,6 +6,7 @@ title: Client Portfolio Analysis – End-to-End BI Solution for AUM Decline, Fee
 # Client Portfolio Analysis  
 **End‑to‑End BI Solution for AUM Decline, Fee Leakage & Adviser Performance**
 
+<iframe title="Portfolio Analytics" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzc4OGQ4OWUtZjgwNC00ZjY5LTk0YjktNjE2YjZiNTliMmExIiwidCI6IjhlYzBiZGRhLWViMTEtNDk4ZS04NmUzLWJjYzk4ZjEwOWFiYiJ9" frameborder="0" allowFullScreen="true"></iframe>
 ---
 
 ## Project Overview
