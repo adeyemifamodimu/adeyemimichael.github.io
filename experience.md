@@ -35,3 +35,7 @@ title: Professional Experience
 - Conducted **root-cause and variance analysis** to improve reporting accuracy.
 - Automated workflows using **Power Query and VBA**, improving efficiency and data integrity.
 - Worked closely with finance, operations, and supply chain teams on data-driven initiatives.
+
+---
+
+[ Back to Home](/index.md)
