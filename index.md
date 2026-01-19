@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Adeyemi Michale-Adewale
 ---
 <!--[📄 Download My CV](Adeyemi_MA.pdf){: .btn } -->
 
