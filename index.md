@@ -13,7 +13,7 @@ title: Adeyemi Michael-Adewale
 
 ---
 
-#Hi, I’m Adeyemi — Data Analyst & BI Developer
+Hi, I’m Adeyemi — Data Analyst & BI Developer
 
 Turning complex data into clarity, strategy, and business impact
 
