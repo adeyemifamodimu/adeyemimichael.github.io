@@ -79,9 +79,8 @@ If you’re interested in:
 
 Check out my:
 
-<div style="display:flex; gap:10px; margin-top:1em;">
-  <a href="skills.md" class="btn">Skills</a>
-  <a href="experience.md" class="btn">Experience</a>
-  <a href="projects.md" class="btn">Projects</a>
-</div>
+[Skills](skills.md){: .btn }
+[Experience](experience.md){: .btn }
+[Projects](projects.md){: .btn }
+
 
