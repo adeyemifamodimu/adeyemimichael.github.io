@@ -3,8 +3,11 @@ layout: default
 title: Projects
 ---
 
-## Treasury & Risk Performance Dashboard
+## Client Portfolio Analytics
 **Tools:** Power BI, DAX, SQL  
+
+![Power BI Dashboard](assets/images/Page1.png)
+
 - Built an executive-level dashboard supporting treasury and risk monitoring.
 - Automated SQL pipelines to improve data latency and reliability.
 - Delivered actionable insights for compliance and financial control teams.
