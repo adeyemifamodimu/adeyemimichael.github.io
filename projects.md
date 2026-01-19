@@ -36,6 +36,6 @@ Below are examples of end-to-end **Business Intelligence solutions** I’ve deli
 
 ---
 
-[ Back to Home](../index.md)
+[ Back to Home](/index.md)
 
 
