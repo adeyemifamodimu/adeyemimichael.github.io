@@ -83,6 +83,5 @@ Check out my:
   <a href="experience.md" style="margin-right:15px; color:#007acc; font-weight:bold;">Experience</a>
   <a href="projects.md" style="color:#007acc; font-weight:bold;">Projects</a>
 </nav>
-{: .btn }
 
 
