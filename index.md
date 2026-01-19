@@ -12,7 +12,7 @@ title: Adeyemi Michael-Adewale
 📞 +44 7901244037 -->
 
 
-Hi, I’m Adeyemi — Data Analyst & BI Developer
+Hi, I’m Adeyemi — Data Analyst & BI Developer.
 
 **Turning complex data into clarity, strategy, and business impact**
 
