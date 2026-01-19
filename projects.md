@@ -6,7 +6,7 @@ title: Projects
 ## Client Portfolio Analytics
 **Tools:** Power BI, DAX, SQL  
 
-![Power BI Dashboard](assets/images/Page1.png)
+<iframe title="Portfolio Analytics" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzc4OGQ4OWUtZjgwNC00ZjY5LTk0YjktNjE2YjZiNTliMmExIiwidCI6IjhlYzBiZGRhLWViMTEtNDk4ZS04NmUzLWJjYzk4ZjEwOWFiYiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 - Built an executive-level dashboard supporting treasury and risk monitoring.
 - Automated SQL pipelines to improve data latency and reliability.
