@@ -4,7 +4,7 @@ title: Adeyemi Michael-Adewale
 ---
 <!--[📄 Download My CV](Adeyemi_MA.pdf){: .btn } -->
 
-<!--Adeyemi Michale-Adewale  
+<!--Adeyemi Michael-Adewale  
 **Data & Business Intelligence Analyst**
 
 📍 United Kingdom | Open to relocation  
