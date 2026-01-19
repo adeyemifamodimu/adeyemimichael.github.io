@@ -22,6 +22,14 @@ I am a **Data & BI Analyst** with strong expertise in **Power BI (DAX, Power Que
 I have delivered **end-to-end BI solutions** across finance, risk, compliance, and operations within **agile, cross-functional teams**.
 
 ---
+
+### Connect with me
+
+[![LinkedIn](assets/images/linkedin.png)](linkedin.com/in/adeyemifamodimu)  
+[![GitHub](assets/images/github.png)]([https://github.com/yourusername](https://adeyemifamodimu.github.io/adeyemimichael.github.io/))
+
+--- 
+
 Check out my:
 [Skills](skills.md) 
 [Experience](experience.md) 
