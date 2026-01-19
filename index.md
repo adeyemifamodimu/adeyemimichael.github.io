@@ -11,7 +11,6 @@ title: Adeyemi Michael-Adewale
 📧 adeyemimichaeladewale@gmail.com  
 📞 +44 7901244037 -->
 
----
 
 Hi, I’m Adeyemi — Data Analyst & BI Developer
 
