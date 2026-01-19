@@ -17,7 +17,7 @@ Below are examples of end-to-end **Business Intelligence solutions** I’ve deli
 - Automated SQL pipelines to improve data latency and reliability.
 - Delivered actionable insights for compliance and financial control teams.
 
-[View full project →](client-portfolio-analytics)
+[View full project →](projects/client-portfolio-analytics)
 ---
 
 ## Automated KPI Reporting Framework
