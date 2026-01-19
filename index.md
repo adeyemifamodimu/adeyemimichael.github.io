@@ -64,6 +64,7 @@ If you’re interested in:
 …you’ll feel right at home here.
 
 
+
 <div style="display:flex; gap:10px; align-items:center; margin-top:1em;">
   <a href="https://www.linkedin.com/in/adeyemifamodimu" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40">
@@ -79,6 +80,7 @@ If you’re interested in:
 --- 
 
 Check out my:
+
 [Skills](skills.md)
 
 [Experience](experience.md) 
