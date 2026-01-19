@@ -21,6 +21,6 @@ I have delivered **end-to-end BI solutions** across finance, risk, compliance, a
 
 ---
 Check out my:
-  [Skills](skills.md) 
-  [Experience](experience.md)  
-  [Projects](projects.md)
+[Skills](skills.md) 
+[Experience](experience.md) 
+[Projects](projects.md)
