@@ -25,8 +25,14 @@ I have delivered **end-to-end BI solutions** across finance, risk, compliance, a
 
 ### Connect with me
 
-[![LinkedIn](assets/images/linkedin.png)](linkedin.com/in/adeyemifamodimu)  
-[![GitHub](assets/images/github.png)]([https://github.com/yourusername](https://adeyemifamodimu.github.io/adeyemimichael.github.io/))
+<div style="display:flex; gap:10px; align-items:center; margin-top:1em;">
+  <a href="https://www.linkedin.com/in/adeyemifamodimu" target="_blank">
+    <img src="assets/images/linkedin.png" alt="LinkedIn" width="40" height="40">
+  </a>
+  <a href=" https://adeyemifamodimu.github.io/adeyemimichael.github.io/" target="_blank">
+    <img src="assets/images/github.png" alt="GitHub" width="40" height="40">
+  </a>
+</div>
 
 --- 
 
