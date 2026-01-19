@@ -47,11 +47,10 @@ That means:
 ---
 
 ### Tools & Technologies
-- Power BI (DAX, Data Modelling, Power Query)
-- SQL (ETL, Views, Aggregations)
-- Python (Pandas, NumPy, Visualisation)
-- dbt Core, Airflow, APIs
-- Excel, Power Automate, GitHub
+- **Power BI**: Power Query, DAX, Data Modelling, Report Design
+- **SQL**: Stored Procedures, Views, ETL Pipelines
+- **Python**: Pandas, NumPy, Data Automation
+- **Excel**: Advanced Formulas, VBA
 
 --- 
 ### Let's Connect
