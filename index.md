@@ -13,7 +13,7 @@ title: Adeyemi Michael-Adewale
 
 ---
 
-Hi, I’m Adeyemi — Data Analyst & BI Developer
+#Hi, I’m Adeyemi — Data Analyst & BI Developer
 
 Turning complex data into clarity, strategy, and business impact
 
@@ -22,7 +22,7 @@ I’m passionate about transforming raw, fragmented data into clean, scalable, i
 
 ---
 
-What I Do
+### What I Do
 
 I design and deliver analytics solutions that bring clarity to complexity:
 - Interactive dashboards that reveal trends, risks, and opportunities
@@ -34,7 +34,7 @@ My work sits at the intersection of data, business strategy, and storytelling.
 
 --- 
 
- My Approach
+### My Approach
 Every project I build follows a simple philosophy:
 Data should tell a story — clearly, honestly, and with purpose.
 That means:
@@ -46,7 +46,7 @@ That means:
 
 ---
 
-Tools & Technologies
+### Tools & Technologies
 - Power BI (DAX, Data Modelling, Power Query)
 - SQL (ETL, Views, Aggregations)
 - Python (Pandas, NumPy, Visualisation)
