@@ -27,7 +27,7 @@ I have delivered **end-to-end BI solutions** across finance, risk, compliance, a
 
 <div style="display:flex; gap:10px; align-items:center; margin-top:1em;">
   <a href="https://www.linkedin.com/in/adeyemifamodimu" target="_blank">
-    <img src="assets/images/linkedin.png" alt="LinkedIn" width="40" height="40">
+   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40">
   </a>
   <a href=" https://adeyemifamodimu.github.io/adeyemimichael.github.io/" target="_blank">
     <img src="assets/images/github.png" alt="GitHub" width="40" height="40">
