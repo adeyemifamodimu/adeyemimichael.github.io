@@ -13,17 +13,57 @@ title: Adeyemi Michael-Adewale
 
 ---
 
-Hello, 
+Hi, I’m Adeyemi — Data Analyst & BI Developer
 
-Welcome to my page!
+Turning complex data into clarity, strategy, and business impact
 
-I am a **Data & BI Analyst** with strong expertise in **Power BI (DAX, Power Query, Data Modelling)**, **SQL**, and **Python** for analytics automation. I specialise in transforming complex datasets into **actionable insights** that improve decision-making, operational efficiency, and business performance.
-
-I have delivered **end-to-end BI solutions** across finance, risk, compliance, and operations within **agile, cross-functional teams**.
+Welcome to my analytics portfolio. I specialise in building end‑to‑end data solutions that help organisations understand what’s happening in their business, why it’s happening, and what to do next. My work blends data modelling, advanced analytics, and story‑driven dashboard design to deliver insights that drive real decisions.
+I’m passionate about transforming raw, fragmented data into clean, scalable, insight‑rich analytics products — the kind that executives rely on and teams use every day.
 
 ---
 
-### Connect with me
+What I Do
+
+I design and deliver analytics solutions that bring clarity to complexity:
+- Interactive dashboards that reveal trends, risks, and opportunities
+- Data models that scale with business growth
+- Insight narratives that turn numbers into decisions
+- Automation pipelines that eliminate manual reporting
+- Performance frameworks for clients, products, and teams
+My work sits at the intersection of data, business strategy, and storytelling.
+
+--- 
+
+ My Approach
+Every project I build follows a simple philosophy:
+Data should tell a story — clearly, honestly, and with purpose.
+That means:
+- Clean, validated data foundations
+- Transparent, reusable logic
+- Executive‑ready visuals
+- Insight before aesthetics
+- Actionable recommendations, not just charts
+
+---
+
+Tools & Technologies
+- Power BI (DAX, Data Modelling, Power Query)
+- SQL (ETL, Views, Aggregations)
+- Python (Pandas, NumPy, Visualisation)
+- dbt Core, Airflow, APIs
+- Excel, Power Automate, GitHub
+
+--- 
+### Let's Connect
+I’m always open to collaborating on data projects, discussing analytics challenges, or exploring new opportunities.
+If you’re interested in:
+- Portfolio analytics
+- Revenue optimisation
+- BI development
+- Data storytelling
+- Scalable data systems
+…you’ll feel right at home here.
+
 
 <div style="display:flex; gap:10px; align-items:center; margin-top:1em;">
   <a href="https://www.linkedin.com/in/adeyemifamodimu" target="_blank">
@@ -31,6 +71,9 @@ I have delivered **end-to-end BI solutions** across finance, risk, compliance, a
   </a>
   <a href=" https://adeyemifamodimu.github.io/adeyemimichael.github.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="40">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~012eaf0d67fb9a677e?mp_source=share" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/upwork.svg" alt="Upwork" width="40">
   </a>
 </div>
 
