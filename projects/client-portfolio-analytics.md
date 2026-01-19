@@ -167,3 +167,7 @@ All measures were designed to remain **filter‑aware, drill‑safe, and hierarc
 - **SQL** (Views, Aggregations, ETL)
 - **Data Governance & Validation**
 - **Stakeholder‑Centric Dashboard Design**
+
+---
+
+[Back to Projects](../projects)
