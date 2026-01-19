@@ -3,7 +3,12 @@ layout: default
 title: Projects
 ---
 
-## Client Portfolio Analytics
+## Selected Projects
+
+Below are examples of end-to-end **Business Intelligence solutions** I’ve delivered, covering data modelling, automation, and executive reporting.
+
+---
+### Client Portfolio Analytics
 **Tools:** Power BI, DAX, SQL  
 
 <iframe title="Portfolio Analytics" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzc4OGQ4OWUtZjgwNC00ZjY5LTk0YjktNjE2YjZiNTliMmExIiwidCI6IjhlYzBiZGRhLWViMTEtNDk4ZS04NmUzLWJjYzk4ZjEwOWFiYiJ9" frameborder="0" allowFullScreen="true"></iframe>
@@ -12,6 +17,7 @@ title: Projects
 - Automated SQL pipelines to improve data latency and reliability.
 - Delivered actionable insights for compliance and financial control teams.
 
+[View full project →](projects/treasury-risk)
 ---
 
 ## Automated KPI Reporting Framework
