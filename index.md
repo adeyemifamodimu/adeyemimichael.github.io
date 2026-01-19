@@ -79,8 +79,8 @@ If you’re interested in:
 
 Check out my:
 
-[Skills](skills.md)
-
-[Experience](experience.md) 
-
-[Projects](projects.md)
+<nav style="margin-top:1em;">
+  <a href="skills.md" style="margin-right:15px; color:#007acc; font-weight:bold;">Skills</a>
+  <a href="experience.md" style="margin-right:15px; color:#007acc; font-weight:bold;">Experience</a>
+  <a href="projects.md" style="color:#007acc; font-weight:bold;">Projects</a>
+</nav>
