@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Client Portfolio Analysis – End-to-End BI Solution for AUM Decline, Fee Leakage & Adviser Performance
+title: Client Portfolio Analysis – AUM, Fees & Team Performance
 ---
 
 # Client Portfolio Analysis  
