@@ -14,7 +14,7 @@ title: Adeyemi Michael-Adewale
 
 Hi, I’m Adeyemi — Data Analyst & BI Developer
 
-Turning complex data into clarity, strategy, and business impact
+**Turning complex data into clarity, strategy, and business impact**
 
 Welcome to my analytics portfolio. I specialise in building end‑to‑end data solutions that help organisations understand what’s happening in their business, why it’s happening, and what to do next. My work blends data modelling, advanced analytics, and story‑driven dashboard design to deliver insights that drive real decisions.
 I’m passionate about transforming raw, fragmented data into clean, scalable, insight‑rich analytics products — the kind that executives rely on and teams use every day.
@@ -23,7 +23,7 @@ I’m passionate about transforming raw, fragmented data into clean, scalable, i
 
 ### What I Do
 
-I design and deliver analytics solutions that bring clarity to complexity:
+**I design and deliver analytics solutions that bring clarity to complexity:**
 - Interactive dashboards that reveal trends, risks, and opportunities
 - Data models that scale with business growth
 - Insight narratives that turn numbers into decisions
