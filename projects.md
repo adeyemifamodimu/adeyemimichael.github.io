@@ -33,3 +33,8 @@ Below are examples of end-to-end **Business Intelligence solutions** I’ve deli
 - Integrated finance, inventory, and operational data.
 - Delivered variance and root-cause analysis dashboards.
 - Automated reporting workflows for improved efficiency.
+
+---
+
+[ Back to Home](/)
+
