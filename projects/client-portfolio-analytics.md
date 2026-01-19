@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Client Portfolio Analysis – AUM, Fees & Team Performance
+title: Client Portfolio Analysis
 ---
 
 # Client Portfolio Analysis  
