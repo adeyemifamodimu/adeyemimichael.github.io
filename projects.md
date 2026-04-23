@@ -19,7 +19,30 @@ Below are examples of end-to-end **Business Intelligence solutions** I’ve deli
 
 [View full project →](projects/client-portfolio-analytics)
 ---
+### Sales Pipeline Analysis
+**Tools:** Power BI, DAX, SQL  
 
+<iframe title="Sovini Group Presentation" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=4998c662-09c2-4b6b-88fb-044dccdd1519&autoAuth=true&ctid=8ec0bdda-eb11-498e-86e3-bcc98f109abb" frameborder="0" allowFullScreen="true"></iframe>
+
+Project Overview
+This project presents a comprehensive Sales Pipeline Analysis for a B2B computer‑hardware company. The dataset combines information about accounts, products, sales teams, and sales opportunities, providing a unified view of the entire sales process — from client characteristics to product pricing, sales agent performance, and opportunity outcomes.
+
+The goal of this project was to:
+- Analyse pipeline quality and health
+- Evaluate sales performance across teams and agents
+- Understand product performance and pricing impact
+- Assess client quality and revenue contribution
+- Deliver actionable recommendations for stakeholders
+
+The final solution is a multi‑page Power BI report structured into:
+- Executive Overview
+- Product Mix
+- Team Performance
+- Client Dynamics
+
+[View full project →](projects/sales-pipeline-analysis)
+
+---
 ## Automated KPI Reporting Framework
 **Tools:** Power BI, SQL, Python  
 - Designed automated KPI dashboards reducing manual reporting time by 50%.
