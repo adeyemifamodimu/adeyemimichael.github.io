@@ -2,69 +2,53 @@ This project presents a comprehensive Sales Pipeline Analysis for a B2B computer
 
 The goal of this project was to:
 
-Analyse pipeline quality and health
-
-Evaluate sales performance across teams and agents
-
-Understand product performance and pricing impact
-
-Assess client quality and revenue contribution
-
-Deliver actionable recommendations for stakeholders
+- Analyse pipeline quality and health
+- Evaluate sales performance across teams and agents
+- Understand product performance and pricing impact
+- Assess client quality and revenue contribution
+- Deliver actionable recommendations for stakeholders
 
 The final solution is a multi‑page Power BI report structured into:
+- Executive Overview
+- Product Mix
+- Team Performance
+- Client Dynamics
 
-Executive Overview
-
-Product Mix
-
-Team Performance
-
-Client Dynamics
-
-🧱 End‑to‑End Data Preparation Process
+End‑to‑End Data Preparation Process
 This project followed a full BI lifecycle:
-
-Data sourcing
-
-Data profiling
-
-Data cleaning & standardisation
-
-Dimensional modelling
-
-Creating analytical SQL views
-
-Enforcing referential integrity
-
-KPI alignment
-
-Insight generation
+- Data sourcing
+- Data profiling
+- Data cleaning & standardisation
+- Dimensional modelling
+- Creating analytical SQL views
+- Enforcing referential integrity
+- KPI alignment
+- Insight generation
 
 Below is the detailed process.
 
-1️⃣ Data Profiling & Quality Assessment
+Data Profiling & Quality Assessment
 I began by profiling each table to understand structure, completeness, and potential issues.
 
-accounts (85 rows)
+- accounts (85 rows)
 7 fields: account, sector, year_established, revenue, employees, office_location, subsidiary_of
 
 Mostly complete except subsidiary_of (70 missing values)
 
-products (7 rows)
+- products (7 rows)
 3 fields: product, sales_price, series
 
 Fully complete
 
-sales_teams (35 rows)
+- sales_teams (35 rows)
 3 fields: sales_agent, manager, regional_office
 
 Fully complete
 
-sales_pipeline (8,800 rows)
+- sales_pipeline (8,800 rows)
 8 fields: opportunity_id, sales_agent, product, account, deal_stage, engage_date, close_date, close_value
 
-Significant missing data:
+- Significant missing data:
 
 account: 1,425 missing
 
@@ -78,15 +62,15 @@ close_value: 2,089 missing
 
 This profiling step guided the cleaning strategy and highlighted where business assumptions were needed.
 
-2️⃣ Data Cleaning & Standardisation
+2. Data Cleaning & Standardisation
 Key cleaning actions:
 
-Standardising categorical values
-Replaced missing account values with a placeholder: “Dambase”
+- Standardising categorical values
+- Replaced missing account values with a placeholder: “Dambase”
 
-Normalised product naming: GTXPro → GTX Pro
+- Normalised product naming: GTXPro → GTX Pro
 
-Type conversions
+- Type conversions
 year_established → INT
 
 revenue → DECIMAL
